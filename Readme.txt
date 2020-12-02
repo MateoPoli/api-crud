@@ -34,7 +34,7 @@ Route DELETE localhost: 3000/api/delete/:id -> Elimina el o los registros que se
 Route PUT localhost: 3000/api/edit -> edita o actualiza los registros que ya se encuentran dentro del crud y envía un request en success cuandoo dicho procedimiento es exitoso
 
 
-DATOS
+DATOS A CREAR
 {
    text: "Los reyes", 
    description: "novela de humor colombiana",
